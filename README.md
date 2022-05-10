@@ -1,7 +1,7 @@
 # unknown-input-Kalman-filter-for-continuous-discrete-stochastic-systems
 
 #### This is the code for the following paper:
-      P. Lu. Comparative Study of State and Unknown Input Estimation for Continuous-discrete Stochastic Systems. Franklin Open, 2022, 1-14.
+      P. Lu. Comparative Study of State and Unknown Input Estimation for Continuous-discrete Stochastic Systems. 2022, 1-14.
 
 ####   This program shows the results of Section 6 of the paper.
 
