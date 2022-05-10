@@ -5,8 +5,6 @@
 
 ####   This program shows the results of Section 6 of the paper.
 
-####   email:  lupeng@hku.hk
-
 ####   released in April 2022
 
 ####   Please cite the above paper if you find this code useful
